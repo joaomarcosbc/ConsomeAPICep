@@ -24,6 +24,7 @@ body {
     border-radius: 8px;
     min-width: 70vh;
     min-height: 90vh;
+    max-height: 90vh;
 }
 
 .container h2 {
@@ -31,6 +32,7 @@ body {
     font-size: 35px;
     margin-bottom: 2rem;
     position: relative;
+    max-width: 100%;
 }
 
 form {
