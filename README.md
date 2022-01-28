@@ -2,7 +2,7 @@
 
 - Consumo de API
 
-<img src="./assets/img/tela.png" alt="Imagem da Tela" width="">
+<img src="./src/img/tela.png" alt="Imagem da Tela" width="">
 
 
 ## 🔧 Sobre:
